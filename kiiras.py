@@ -14,3 +14,4 @@ gambleing()
 lehetoseg = str(input("Wanna play again? Y/N:"))
 if lehetoseg == "Y":
     gambleing()
+
